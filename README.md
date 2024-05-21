@@ -8,4 +8,4 @@ Repo Contains all the certificate &amp; achievements
 - hackEDCode 2.0 by `GGSIPU EDC` ([Certificate Link](/Cert/hackedcode.pdf))
 
 🧑‍💻 Won Capture the Flag (Hacking Competition):
-- TazerHunt by `Delhi Technical University` (DTU) ([Certificate Link](/Cert/dtu_ctf.pdf))
+- TazerHunt by `Delhi Technical University` (DTU) ([Certificate Link](/Cert/TazerHunt_CTF.jpeg))
