@@ -9,7 +9,7 @@ Repo Contains all the certificate &amp; achievements
 - hackEDCode 2.0 by `GGSIPU EDC` ([Certificate Link](/Cert/hackedcode2.0.pdf))
 
 🧑‍💻 Won Capture the Flag (Hacking Competition):
-- TazerHunt by `Delhi Technical University` (DTU) ([Certificate Link](/Cert/TazerHunt_CTF.jpeg))
+- TazerHunt by `Delhi Technical University` (DTU) ([Certificate Link](/Cert/TazerHunt_CTF.pdf))
 
 🏆 Selected in `Amazon ML Summer School 2024` ([Result Link](/Cert/AmazonMLSS.png))
 - After rigorous `DSA`, `Probability`, `Stats`, `ML` assessment round
