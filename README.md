@@ -1,7 +1,7 @@
 # Achievements
 Repo Contains all the certificate &amp; achievements
 
-🧑‍💻 Won Hackathon Competition:
+🧑‍💻 Won 6 National Level Hackathon Competition:
 - `1st Rank` in `Intel` Gen AI Hackathon
 - `1st Rank` in Cyber Hackathon by `Delhi Police` ([Certificate Link](/Cert/DelhiPoliceHackathon.jpeg))
 - `2nd Rank` in Code Cubicle 3.0 by `MasterCard AI Garage` x `Geek Room` ([Certificate Link](/Cert/codecubicle3.0.pdf))
