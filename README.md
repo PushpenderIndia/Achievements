@@ -1,7 +1,7 @@
 # Achievements
 Repo Contains all the certificate &amp; achievements
 
-🧑‍💻 Won 6 National Level Hackathon Competition:
+🧑‍💻 Won 6 National Hackathon Competitions:
 - `1st Rank` in `Intel` Gen AI Hackathon
 - `1st Rank` in Cyber Hackathon by `Delhi Police` ([Certificate](/Cert/DelhiPoliceHackathon.jpeg))
 - `1st Rank` (Track Winner) in Code Utsav 8.0 by `National Institute of Technology Raipur` ([Certificate](/Cert/NIT_Raipur_Cert.pdf))
