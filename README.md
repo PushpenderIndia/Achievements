@@ -3,7 +3,7 @@ Repo Contains all the certificate &amp; achievements
 
 🧑‍💻 Won 8 Global Hackathon Competitions:
 - `1st Runner Up` in `Amazon Sambhav 2024 Hackathon` ([Live YouTube Stream - Award Ceremony](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s))
-- `1st Rank` (Track Winner) in `Intel & Redhat International Hackathon 2024`
+- `1st Rank` (Track Winner) in `Intel & Redhat International Hackathon 2024` ([Certificate](/Cert/Intel_Redhat_International_Hackathon.pdf))
 - `1st Rank` in `Intel` Gen AI Hackathon
 - `1st Rank` in Cyber Hackathon by `Delhi Police` ([Certificate](/Cert/DelhiPoliceHackathon.jpeg))
 - `1st Rank` (Track Winner) in Code Utsav 8.0 by `National Institute of Technology Raipur` ([Certificate](/Cert/NIT_Raipur_Cert.pdf))
