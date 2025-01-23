@@ -17,3 +17,6 @@ Repo Contains all the certificate &amp; achievements
 🏆 Selected in `Amazon ML Summer School 2024` ([Result Link](/Cert/AmazonMLSS.png))
 - After rigorous `DSA`, `Probability`, `Stats`, `ML` assessment round
 - Only `3k students` are selected each year
+
+🏆 Global Rank 91 in `TCS CodeVita Round 2` ([Result Link](/Cert/TCSCodeVita.png))
+- Global Rank 310 in TCS CodeVita Pre-Qualifier 
