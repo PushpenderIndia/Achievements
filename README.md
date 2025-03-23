@@ -1,6 +1,8 @@
 # Achievements
 Repo Contains all the certificate &amp; achievements
 
+🧑‍💻 Unstop Talent Award 2025 Winner - Top 80 Unstop Competitive E-School Leader 2025 ([Unstop Link](https://unstop.com/awards/u/pushpender-singh-3138055/2025))
+
 🧑‍💻 Won 9 Global Hackathon Competitions:
 - `1st Runner Up` in `Amazon Sambhav 2024 Hackathon` ([Live YouTube Stream - Award Ceremony](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s)) ([News Link](https://www.aboutamazon.in/news/small-business/smbhav-hackathon-2024-ai-innovation-small-businesses))
 - `1st Rank` (Track Winner) in `Intel & Redhat International Hackathon 2024` ([Certificate](/Cert/Intel_Redhat_International_Hackathon.pdf))
