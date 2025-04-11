@@ -21,5 +21,5 @@ Repo Contains all the certificate &amp; achievements
 - After rigorous `DSA`, `Probability`, `Stats`, `ML` assessment round
 - Only `3k students` are selected each year
 
-🏆 Global Rank 91 in `TCS CodeVita Round 2` ([Result Link](/Cert/TCSCodeVita.png))
+🏆 Global Rank 91 in `TCS CodeVita Round 2` ([Certificate Link](/Cert/TCS%20CodeVita%20Season%2012%20Certificate%20-%20pushpenderindia.pdf) - [Result Link](/Cert/TCSCodeVita.png))
 - Global Rank 310 in TCS CodeVita Pre-Qualifier 
