@@ -1,7 +1,7 @@
 # Achievements
 Repo Contains all the certificate &amp; achievements
 
-🧑‍💻 Unstop Talent Award 2025 Winner - Top 80 Unstop Competitive E-School Leader 2025 ([Unstop Link](https://unstop.com/awards/u/pushpender-singh-3138055/2025))
+🧑‍💻 `Unstop Talent Award 2025 Winner` - Rank 19th among Top 80 Unstop Competitive E-School Leader 2025 ([Unstop Link](https://unstop.com/awards/u/pushpender-singh-3138055/2025))
 ![](/Cert/Unstop_Talent_Award_2025.png)
 
 🧑‍💻 Won 9 Global Hackathon Competitions:
