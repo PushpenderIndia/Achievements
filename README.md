@@ -4,8 +4,9 @@ Repo Contains all the certificate &amp; achievements
 🧑‍💻 `Unstop Talent Award 2025 Winner` - Rank 19th among Top 80 Unstop Competitive E-School Leader 2025 ([Unstop Link](https://unstop.com/awards/u/pushpender-singh-3138055/2025))
 ![](/Cert/Unstop_Talent_Award_2025.png)
 
-🧑‍💻 Won 9 Global Hackathon Competitions:
+🧑‍💻 Won 10x Global Hackathon Competitions:
 - `1st Runner Up` in `Amazon Sambhav 2024 Hackathon` ([Live YouTube Stream - Award Ceremony](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s)) ([News Link](https://www.aboutamazon.in/news/small-business/smbhav-hackathon-2024-ai-innovation-small-businesses))
+- `1st Runner Up` in `GSMA & Nokia Open Gateway Hackathon 2025` ([Award Picture](/Cert/GSMA.jpg)) 
 - `1st Rank` (Track Winner) in `Intel & Redhat International Hackathon 2024` ([Certificate](/Cert/Intel_Redhat_International_Hackathon.pdf))
 - `1st Rank` in `Intel` Gen AI Hackathon
 - `1st Runner Up` in Code Cubicle 3.0 by `MasterCard AI Garage` x `Geek Room` ([Certificate](/Cert/codecubicle3.0.pdf))
