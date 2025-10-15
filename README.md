@@ -7,9 +7,11 @@ Repo Contains all the certificate &amp; achievements
 🧑‍💻 Won 10x Global Hackathon Competitions:
 - `1st Runner Up` in `Amazon Sambhav 2024 Hackathon` ([Live YouTube Stream - Award Ceremony](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s)) ([News Link](https://www.aboutamazon.in/news/small-business/smbhav-hackathon-2024-ai-innovation-small-businesses))
 - `1st Runner Up` in `GSMA & Nokia Open Gateway Hackathon 2025` ([Award Picture](/Cert/GSMA_And_Nokia_Open_Gateway_Hackathon_2025.jpeg)) ([HackerEarth Link](https://www.hackerearth.com/challenges/hackathon/india-connected-apis-for-a-billion-lives/))
-    - Featured on News Articles
+    - Our `Team Malaai` is Featured on following News Articles
         - [Communicationstoday.co.in](https://www.communicationstoday.co.in/startup-world-cup-india-and-gsma-open-gateway-hackathon-winners-announced/)
         - [timestech.in](https://timestech.in/india-mobile-congress-2025-announces-winners-of-start-up-world-cup-india-and-gsma-open-gateway-hackathon/)
+        - [techachievemedia.com](https://techachievemedia.com/press-release/india-mobile-congress-2025-announces-winners-of-start-up-world-cup-india-and-gsma-open-gateway-hackathon/)
+        - [electronicsmedia.info](electronicsmedia.info/2025/10/14/imc-2025-announces-winners-of-start-up-world-cup-india-and-gsma-open-gateway-hackathon/)
 - `1st Rank` (Track Winner) in `Intel & Redhat International Hackathon 2024` ([Certificate](/Cert/Intel_Redhat_International_Hackathon.pdf))
 - `1st Rank` in `Intel` Gen AI Hackathon
 - `1st Runner Up` in Code Cubicle 3.0 by `MasterCard AI Garage` x `Geek Room` ([Certificate](/Cert/codecubicle3.0.pdf))
