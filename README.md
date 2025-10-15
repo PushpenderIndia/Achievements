@@ -5,7 +5,9 @@ Repo Contains all the certificate &amp; achievements
 ![](/Cert/Unstop_Talent_Award_2025.png)
 
 🧑‍💻 Won 10x Global Hackathon Competitions:
-- `1st Runner Up` in `Amazon Sambhav 2024 Hackathon` ([Live YouTube Stream - Award Ceremony](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s)) ([News Link](https://www.aboutamazon.in/news/small-business/smbhav-hackathon-2024-ai-innovation-small-businesses))
+- `1st Runner Up` in `Amazon Sambhav 2024 Hackathon` ([Live YouTube Stream - Award Ceremony](https://www.youtube.com/live/VTMcE12Z3kA?t=8702s))
+    - Features on aboutamazon.in News Article: [https://www.aboutamazon.in](https://www.aboutamazon.in/news/small-business/smbhav-hackathon-2024-ai-innovation-small-businesses)
+    - 
 - `1st Runner Up` in `GSMA & Nokia Open Gateway Hackathon 2025` ([Award Picture](/Cert/GSMA_And_Nokia_Open_Gateway_Hackathon_2025.jpeg)) ([HackerEarth Link](https://www.hackerearth.com/challenges/hackathon/india-connected-apis-for-a-billion-lives/))
     - Our `Team Malaai` is Featured on following News Articles
         - [Communicationstoday.co.in](https://www.communicationstoday.co.in/startup-world-cup-india-and-gsma-open-gateway-hackathon-winners-announced/)
