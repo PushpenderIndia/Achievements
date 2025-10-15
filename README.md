@@ -14,6 +14,9 @@ Repo Contains all the certificate &amp; achievements
         - [timestech.in](https://timestech.in/india-mobile-congress-2025-announces-winners-of-start-up-world-cup-india-and-gsma-open-gateway-hackathon/)
         - [techachievemedia.com](https://techachievemedia.com/press-release/india-mobile-congress-2025-announces-winners-of-start-up-world-cup-india-and-gsma-open-gateway-hackathon/)
         - [electronicsmedia.info](electronicsmedia.info/2025/10/14/imc-2025-announces-winners-of-start-up-world-cup-india-and-gsma-open-gateway-hackathon/)
+        - [menafn.com](https://menafn.com/1110181900/India-Mobile-Congress-Announces-Winners-Of-First-Ever-Start-Up-World-Cup-India-And-GSMA-Open-Gateway-Hackathon)
+        - [techglocal.in](https://techglocal.in/india-mobile-congress-recognises-industry-excellence-with-imc-2025-awards-announces-winners-of-start-up-world-cup-india-and-gsma-open-gateway-hackathon/)
+        - 
 - `1st Rank` (Track Winner) in `Intel & Redhat International Hackathon 2024` ([Certificate](/Cert/Intel_Redhat_International_Hackathon.pdf))
 - `1st Rank` in `Intel` Gen AI Hackathon
 - `1st Runner Up` in Code Cubicle 3.0 by `MasterCard AI Garage` x `Geek Room` ([Certificate](/Cert/codecubicle3.0.pdf))
